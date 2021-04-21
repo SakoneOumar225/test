@@ -85,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     Text(
                                       "DEVELOPER",
                                       style: TextStyle(
-                                        fontSize: 24,
+                                        fontSize: 18,
                                       ),
                                     ),
                                     SizedBox(

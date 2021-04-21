@@ -238,7 +238,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       color: Colors.white70,
                     )),
                 TextSpan(
-                    text: ' PENDULUM',
+                    text: ' PEND & CIR',
                     style: TextStyle(
                       color: Colors.orange,
                     )),
